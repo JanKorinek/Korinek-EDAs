@@ -1,4 +1,4 @@
-# Jan Korinek's exploratory data analyses
+# Exploratory data analyses - by Jan Korinek
 Hello and welcome. 
 
 In this repository you can find exploratory data analyses performed as part of the final capstones within *IBM Data Science* and *Enterprise Workflow specializations*.
